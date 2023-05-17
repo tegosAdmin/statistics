@@ -43,7 +43,7 @@ x-μ
 人間の体重平均が60kg,ネズミの体重平均が0.4kgでした。
 それぞれ分散は1,0.1でした。
 どちらがデータのばらつきがありますか？
-[sample.zip](https://github.com/tegosAdmin/statistics/files/11495324/sample.zip)
+
 
 
 
