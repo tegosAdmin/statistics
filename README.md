@@ -44,6 +44,9 @@ x-μ
 それぞれ分散は1,0.1でした。
 どちらがデータのばらつきがありますか？
 
+新しい数学のサンプル（パスワードはいつものやつの右4桁）
+[python_atarasi_sugaku_sample_password.zip](https://github.com/tegosAdmin/statistics/files/11495347/python_atarasi_sugaku_sample_password.zip)
+
 
 
 
